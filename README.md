@@ -3,7 +3,7 @@ Codakt is a fully responsive online courses website template, responsive for all
 
 ## Demo
 
-![Egyptour Desktop Demo](./website-demo-image/desktop.jpg "Desktop Demo")
+![codakt Demo](./website-demo-image/codakt.jpg "codakt Demo")
 
 ## Prerequisites
 
