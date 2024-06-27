@@ -18,13 +18,13 @@ To install **Egyptour**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Death-Mask/Egyptour.git
+sudo git clone https://github.com/Death-Mask/Codakt.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Death-Mask/Egyptour.git
+git clone https://github.com/Death-Mask/Codakt.git
 ```
 
 ## Contact
