@@ -13,7 +13,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installing Codakt
 
-To install **Egyptour**, follow these steps:
+To install **Codakt**, follow these steps:
 
 Linux and macOS:
 
