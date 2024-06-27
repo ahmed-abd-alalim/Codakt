@@ -1,5 +1,5 @@
 # Codakt  -  online courses website template
-Egyptour is a fully responsive tourism website template, responsive for all devices, built using HTML, CSS, and JavaScript.
+Codakt is a fully responsive online courses website template, responsive for all devices, built using HTML, CSS, and JavaScript. 
 
 ## Demo
 
