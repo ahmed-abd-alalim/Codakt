@@ -25,13 +25,13 @@ To install **Codakt**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Death-Mask/Codakt.git
+sudo git clone https://github.com/AhmedAbdAlalim-3A/Codakt.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Death-Mask/Codakt.git
+git clone https://github.com/AhmedAbdAlalim-3A/Codakt.git
 ```
 
 ## Contact
