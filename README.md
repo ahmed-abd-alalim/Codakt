@@ -1,5 +1,5 @@
 <div align="center">
-<h2 align="center">Codakt  -  online courses website template</h2>
+<h1 align="center">Codakt  -  online courses website template</h1>
 Codakt is a fully responsive online courses website template, responsive for all devices, built using HTML, CSS, and JavaScript.
 <br />
 <br />
