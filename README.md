@@ -3,7 +3,7 @@
 Codakt is a fully responsive online courses website template, responsive for all devices, built using HTML, CSS, and JavaScript.
 <br />
 <br />
-<a href="https://codewithsadee.github.io/funel-agency_landing_page/"><strong>➥ Live Demo</strong></a>
+<a href="https://ahmedabdalalim-3a.github.io/Codakt/"><strong>➥ Live Demo</strong></a>
 <br />
 <br />
 </div>
