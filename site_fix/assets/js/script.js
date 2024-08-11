@@ -1,5 +1,5 @@
 /**
- * copyright 2024 DeathMask
+ * copyright 2024 3A
  */
 
 document.addEventListener('DOMContentLoaded', function () {
