@@ -12,6 +12,14 @@ Codakt is a fully responsive online courses website template, responsive for all
 
 ![codakt Demo](./website-demo-image/codakt.jpg "codakt Demo")
 
+## programming language and tools
+
+<p>
+   <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,ps&perline=7" />
+   </a>
+</p>
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
