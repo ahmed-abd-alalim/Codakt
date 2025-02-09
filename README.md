@@ -3,7 +3,7 @@
 Codakt is a fully responsive online courses website template, responsive for all devices, built using HTML, CSS, and JavaScript.
 <br />
 <br />
-<a href="https://ahmedabdalalim-3a.github.io/Codakt/"><strong>➥ Live Demo</strong></a>
+<a href="https://ahmed-abd-alalim.github.io/Codakt/"><strong>➥ Live Demo</strong></a>
 <br />
 <br />
 </div>
@@ -33,13 +33,13 @@ To install **Codakt**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/AhmedAbdAlalim-3A/Codakt.git
+sudo git clone https://github.com/ahmed-abd-alalim/Codakt.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/AhmedAbdAlalim-3A/Codakt.git
+git clone https://github.com/ahmed-abd-alalim/Codakt.git
 ```
 
 ## Contact
