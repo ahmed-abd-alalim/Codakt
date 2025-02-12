@@ -24,12 +24,12 @@ Codakt is a fully responsive online courses website template, designed to provid
 
 ## Features
 
-✅ Fully Responsive – Works on desktops, tablets, and mobile devices
-✅ Modern UI/UX – Clean and engaging design for e-learning platforms
-✅ Course Listings – Showcase different courses dynamically
-✅ Instructor Profiles – Display details about course creators
-✅ Student Dashboard – Personalized learning experience
-✅ Interactive UI – Smooth animations and transitions
+<p>✅ Fully Responsive – Works on desktops, tablets, and mobile devices</p>
+<p>✅ Modern UI/UX – Clean and engaging design for e-learning platforms</p>
+<p>✅ Course Listings – Showcase different courses dynamically</p>
+<p>✅ Instructor Profiles – Display details about course creators</p>
+<p>✅ Student Dashboard – Personalized learning experience</p>
+<p>✅ Interactive UI – Smooth animations and transitions</p>
 
 
 ## Prerequisites
