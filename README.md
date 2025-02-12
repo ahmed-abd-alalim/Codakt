@@ -12,6 +12,7 @@ Codakt is a fully responsive online courses website template, designed to provid
 
 ![codakt Demo](./website-demo-image/codakt.jpg "codakt Demo")
 
+
 ## programming language and tools
 
 <p>
@@ -20,11 +21,23 @@ Codakt is a fully responsive online courses website template, designed to provid
    </a>
 </p>
 
+
+## Features
+
+✅ Fully Responsive – Works on desktops, tablets, and mobile devices
+✅ Modern UI/UX – Clean and engaging design for e-learning platforms
+✅ Course Listings – Showcase different courses dynamically
+✅ Instructor Profiles – Display details about course creators
+✅ Student Dashboard – Personalized learning experience
+✅ Interactive UI – Smooth animations and transitions
+
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
 
 ## Installing Codakt
 
@@ -42,13 +55,13 @@ Windows:
 git clone https://github.com/ahmed-abd-alalim/Codakt.git
 ```
 
+
 ## Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmed-abd-alalim-286768299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<!--   <a href="https://github.com/Death-Mask" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=whit style="border-radius: 30px" target="_blank"></a> -->
-  
 </p>
+
 
 ## License
 
