@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Codakt  -  online courses website template</h1>
-Codakt is a fully responsive online courses website template, responsive for all devices, built using HTML, CSS, and JavaScript.
+<h1 align="center">🎓 Codakt – Responsive Online Courses Website Template</h1>
+Codakt is a fully responsive online courses website template, designed to provide a seamless learning experience across all devices. Built with HTML, CSS, and JavaScript, this template is lightweight, modern, and easy to customize.
 <br />
 <br />
 <a href="https://ahmed-abd-alalim.github.io/Codakt/"><strong>➥ Live Demo</strong></a>
